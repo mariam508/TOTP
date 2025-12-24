@@ -21,7 +21,9 @@ How poor configurations can completely bypass TOTP protection
 #
 # 📂 Repository Contents
 [index.html](https://github.com/user-attachments/files/24332833/index.html)
+
 [script.js](https://github.com/user-attachments/files/24332837/script.js)
+
 [style.css](https://github.com/user-attachments/files/24332849/style.css)
 
 #
