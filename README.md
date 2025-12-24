@@ -18,13 +18,13 @@ Why it is considered more secure than static passwords
 Common implementation flaws and attack scenarios
 
 How poor configurations can completely bypass TOTP protection
+#
 # 📂 Repository Contents
 [index.html](https://github.com/user-attachments/files/24332833/index.html)
 [script.js](https://github.com/user-attachments/files/24332837/script.js)
 [style.css](https://github.com/user-attachments/files/24332849/style.css)
 
-
-
+#
 # 🔍 What This Analyzer Demonstrates
 1. How TOTP Works
 
@@ -59,7 +59,7 @@ Attackers abused proxy-based phishing
 OTP codes were captured and replayed
 
 Users trusted fake authentication pages
-
+#
 # ⚠️ Key Security Lessons
 
 TOTP is not unbreakable
@@ -79,6 +79,7 @@ Anti-phishing protections
 
 User awareness
 
+#
 # 🧠 Why This Matters
 
 Even in 2025, real penetration tests still find:
@@ -90,5 +91,4 @@ OTP replay vulnerabilities
 Poor session handling after OTP validation
 
 This project highlights why TOTP should be part of a defense strategy — not the only defense.
-
-
+#
