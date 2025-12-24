@@ -25,15 +25,6 @@ How poor configurations can completely bypass TOTP protection
 [script.js](https://github.com/user-attachments/files/24332837/script.js)
 
 [style.css](https://github.com/user-attachments/files/24332849/style.css)
-#
-
-
-## 🚀 One-Click Access
-## 🔗 One-Click Access
-
-[![Play Interactive Lab](https://github.com/user-attachments/files/24332833/index.html)
-
-[![View Presentation Slides](https://gamma.app/docs/Time-Based-One-Time-Passwords-TOTP-kn4179lrc1tlowk?mode=present#card-cxomrlydp391bnc)
 
 #
 # 🔍 What This Analyzer Demonstrates
