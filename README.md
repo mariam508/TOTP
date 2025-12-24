@@ -29,12 +29,12 @@ How poor configurations can completely bypass TOTP protection
 
 
 ## 🚀 One-Click Access
+## 🔗 One-Click Access
 
-▶️ ** Play Interactive Lab Platform **
-https://github.com/user-attachments/files/24332833/index.html
+[![Play Interactive Lab](https://github.com/user-attachments/files/24332833/index.html)
 
-📑 ** View Slides **
-https://github.com/USERNAME/REPO_NAME/blob/main/TOTP%20Token%20Security%20Analyzer%20Slides.pdf](https://gamma.app/docs/Time-Based-One-Time-Passwords-TOTP-kn4179lrc1tlowk?mode=present#card-cxomrlydp391bnc
+[![View Presentation Slides](https://gamma.app/docs/Time-Based-One-Time-Passwords-TOTP-kn4179lrc1tlowk?mode=present#card-cxomrlydp391bnc)
+
 #
 # 🔍 What This Analyzer Demonstrates
 1. How TOTP Works
