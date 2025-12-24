@@ -5,6 +5,7 @@ TOTP Token Security Analyzer is a security-focused presentation and demonstratio
 
 Team Members:
 Mariam Badr · Farah Muhammed· Habiba El halawany
+#
 # Goal 
 The goal of this project is to analyze the security of TOTP-based authentication mechanisms used in modern systems, such as Google Authenticator, Microsoft Authenticator, and other MFA solutions.
 
