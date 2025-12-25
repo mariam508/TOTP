@@ -26,6 +26,8 @@ How poor configurations can completely bypass TOTP protection
 
 [style.css](https://github.com/user-attachments/files/24332849/style.css)
 
+[persentation](https://gamma.app/docs/Time-Based-One-Time-Passwords-TOTP-kn4179lrc1tlowk)
+
 #
 # 🔍 What This Analyzer Demonstrates
 1. How TOTP Works
